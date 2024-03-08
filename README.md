@@ -1,4 +1,4 @@
-# odin-recipes
+# odin-recipes-css
 Project: Recipes from TOP curriculum. 
 
 CSS application of the odin-recipes project: https://github.com/bhrnja/odin-recipes
