@@ -1,7 +1,7 @@
 html * {
     background-color: #f0f0f0;
     font-family: "Verdana", "Arial", sans-serif;
-
+    box-sizing: border-box;
 }
 
 h1 {
@@ -18,4 +18,24 @@ p {
 
 a {
     color: #0595af;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.home-list {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+.list-space {
+    padding: 5px;
+}
+
+.content {
+    margin: 30px;
 }
